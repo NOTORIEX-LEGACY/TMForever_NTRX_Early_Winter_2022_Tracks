@@ -8,6 +8,6 @@
 
 <b>
 <ul>
-	<li>TrackMania United: Forever</li>
+	<li>TrackMania United: Forever (Unlimiter mod may be required for certain maps!)</li>
 </ul>
 </b>
